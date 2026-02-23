@@ -12,3 +12,4 @@ C:\Users\Darshan\sample\obj\Debug\net10.0\refint\sample.dll
 C:\Users\Darshan\sample\obj\Debug\net10.0\sample.pdb
 C:\Users\Darshan\sample\obj\Debug\net10.0\sample.genruntimeconfig.cache
 C:\Users\Darshan\sample\obj\Debug\net10.0\ref\sample.dll
+C:\Users\Darshan\sample\obj\Debug\net10.0\sample.sourcelink.json
